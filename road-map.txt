@@ -1,0 +1,22 @@
+BASIC:- 
+===================
+
+1. How to create react app 
+2. Structure of React 
+3. JSX 
+4. Components(function/classs)
+5. ways to apply css
+6. props
+
+INTERMEDIATE:- 
+================== 
+1. Connditional Rendering 
+2. React Events 
+3. React Hooks
+4. Form Handling 
+5. Fragments 
+
+ADVANCED:- 
+==================
+1. React Life Cycle Mehods 
+2. Redux
